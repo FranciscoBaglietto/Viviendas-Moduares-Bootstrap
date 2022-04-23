@@ -2,6 +2,27 @@
     margin: 0;
     padding: 0;
 }
+@font-face{
+    font-family: poppins-extralight;
+    src: url(./tipografias/MuseoSans-300.otf);
+}
+@font-face{
+    font-family: jersey_m54;
+    src: url(./tipografias/Jersey_M54[1].ttf);
+}
+@font-face{
+    font-family: museosans_500;
+    src: url(./tipografias/MuseoSans_500_Italic.otf);
+}
+@font-face{
+    font-family: museosans_100;
+    src: url(./tipografias/MuseoSans-100.otf);
+}
+@font-face{
+    font-family: museosans_900;
+    src: url(./tipografias/MuseoSans_1.otf)
+}
+
     /*Cabecera*/
 .cabecera{
     background-color: rgb(189, 108, 20);
@@ -122,6 +143,31 @@
     width: 750px;
     
 }
+    /*Fin de Modelos*/
+
+    /*Viviendas*/
+    .viviendas__titulo{
+        color: #FECF07;
+        font-family: museosans_900;
+        margin-right: 20rem;
+        margin-bottom: 12rem;
+        margin-top: 2rem;
+        
+    }
+   .viviendas__text1{
+        font-family: jersey_m54;
+        font-size: 40px;
+        margin-bottom: 10rem;
+   }
+
+   .viviendas__text2{
+    font-family: museosans_100;
+    font-size: 18px;
+    font-weight: 800;
+    margin-bottom: 10rem;
+    }
+
+
 
 
 
