@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+    /*Cabecera*/
+.cabecera{
+    background-color: rgb(189, 108, 20);
+}
+.collapse{
+   margin-right: 10px;
+}
+.cabecera__logo{
+    width: 5rem;
+    margin-left: 20px;
+}
+.nav-link{
+    font-size: 20px;
+}
+    /*Fin de Cabecera*/
+
+
+
+
+
+    /*Footer*/
+.footer{
+    background-color: black;
+}    
+.footer__secciones {
+    color: yellow;
+}
+.secciones p{
+    color: white;
+}
+/*Fin de Footer*/
