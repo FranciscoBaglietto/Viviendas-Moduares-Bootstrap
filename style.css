@@ -44,6 +44,72 @@
     font-size: 1.5rem;
     margin-top: 4rem;
 }
+    /*Fin de Inicio*/
+
+    /*Nosotros*/
+.img-fluid{
+    width: auto;
+    
+    
+}
+.nosotros__titulo{
+    color: #FECF07;
+    font-family: museosans_900;
+    
+    align-self: flex-start;
+    justify-self: flex-end;
+    margin: 10px;
+    
+}
+.nosotros__titulo--texto{
+    font-family: museosans_100 ;
+    margin-left: 1rem;
+    
+}
+.nosotros__imagen--compromiso{
+    width: 5rem;
+    height: 5rem;
+    align-self: center;
+}
+.nosotros__text--compromiso{
+    font-family: museosans_500;
+    align-self: center;
+}
+
+
+.nosotros__imagen--calidad{
+    width: 5rem;
+    height: 5rem;
+    align-self: center;
+}
+
+.nosotros__text--calidad{
+    font-family: museosans_500;
+    align-items: center;
+    margin: 0rem ;
+    align-self: center;
+    
+}
+.nosotros__imagen--fabrica{
+    width: 5rem;
+    height: 5rem;
+    align-self: center;
+}
+.nosotros__text--fabrica{
+    align-self: center;
+    font-family: museosans_500;
+}
+.nosotros__imagen--entrega{
+    width: 5rem;
+    height: 5rem;
+    align-self: center;
+}
+.nosotros__text--entrega{
+    align-self: center;
+    font-family: museosans_500;
+}    
+
+
 
     /*Footer*/
 .footer{
