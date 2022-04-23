@@ -49,13 +49,12 @@
     /*Nosotros*/
 .img-fluid{
     width: auto;
-    
+    margin: 10px;
     
 }
 .nosotros__titulo{
     color: #FECF07;
     font-family: museosans_900;
-    
     align-self: flex-start;
     justify-self: flex-end;
     margin: 10px;
@@ -108,6 +107,21 @@
     align-self: center;
     font-family: museosans_500;
 }    
+    /*Fin de Nosotros*/
+
+    /*Modelos*/   
+.main__modelos{
+    background-color: black;
+} 
+.texto__modelos{
+    font-size: 1.5rem;
+    margin: 2rem 0rem 0rem 2rem;
+    color: #FECF07;
+}
+.img-fluid{
+    width: 750px;
+    
+}
 
 
 
