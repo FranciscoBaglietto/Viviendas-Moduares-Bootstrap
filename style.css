@@ -30,6 +30,9 @@
 .collapse{
    margin-right: 10px;
 }
+.navbar-nav{
+    text-align: center;
+}
 .cabecera__logo{
     width: 5rem;
     margin-left: 20px;
