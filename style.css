@@ -41,6 +41,10 @@
     font-size: 18px;
     color: white !important;
     font-family: poppins-extralight;
+    transition: transform 1s;
+}
+.nav-link:hover{
+    transform: scale(1.1);
 }
 
 
@@ -57,6 +61,12 @@
     background-position: center;
     width: auto;
     overflow: hidden;
+}
+.inicio__boton:hover{
+    transform: scale(1.2);
+}
+.inicio__boton{
+    transition: transform 1s;
 }
 .sticker{
     width: 30rem;
