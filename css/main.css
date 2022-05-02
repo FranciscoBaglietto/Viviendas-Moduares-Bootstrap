@@ -1,0 +1,17 @@
+.cabecera {
+  background-color: #bd6c14; }
+  .cabecera .cabecera__logo {
+    width: 5rem;
+    margin-left: 20px; }
+  .cabecera .navegador {
+    margin-right: 10px; }
+    .cabecera .navegador .navbar-nav {
+      text-align: center; }
+      .cabecera .navegador .navbar-nav .nav-link {
+        font-size: 18px;
+        color: white !important;
+        font-family: poppins-extralight;
+        transition: transform 1s; }
+
+.nav-link:hover {
+  transform: scale(1.1); }
