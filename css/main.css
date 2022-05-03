@@ -21,3 +21,36 @@
     color: white; }
     .footer .secciones__footer {
       color: #FECF07; }
+
+.main__inicio {
+  background-image: url(./imagen/imageninicio.jpg);
+  height: 50rem;
+  object-fit: cover;
+  object-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: auto;
+  overflow: hidden; }
+  .main__inicio .sticker {
+    width: 30rem;
+    position: relative;
+    margin-top: -15rem; }
+  .main__inicio .inicio__texto1 {
+    font-size: 35px;
+    color: white;
+    margin: 0rem 0rem 5rem 0rem;
+    font-family: jersey_m54; }
+  .main__inicio .inicio__texto2 {
+    font-size: 51px;
+    color: white;
+    font-family: jersey_m54;
+    padding-bottom: 50px; }
+  .main__inicio .inicio__texto3 {
+    text-decoration: none;
+    color: white !important;
+    /*No me deja igual que el Nav*/
+    font-size: 25px;
+    background-color: #FECF07;
+    padding: 4px 10px;
+    border-radius: 10px; }
