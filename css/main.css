@@ -12,6 +12,12 @@
         color: white !important;
         font-family: poppins-extralight;
         transition: transform 1s; }
+        .cabecera .navegador .navbar-nav .nav-link:hover {
+          transform: scale(1.1); }
 
-.nav-link:hover {
-  transform: scale(1.1); }
+.footer {
+  background-color: black; }
+  .footer .secciones {
+    color: white; }
+    .footer .secciones__footer {
+      color: #FECF07; }
