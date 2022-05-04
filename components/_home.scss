@@ -36,5 +36,14 @@
         background-color: $color-amarillo;
         padding: 4px 10px;
         border-radius: 10px;
+
+        .inicio__boton:hover{
+            transform: scale(1.2);
+        }
+        .inicio__boton{
+            width: fit-content;
+            margin: 0 auto;
+            transition: transform 1s;
+        }
     }
 }

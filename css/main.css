@@ -39,13 +39,6 @@
         .cabecera .navegador .navbar-nav .nav-link:hover {
           transform: scale(1.1); }
 
-.footer {
-  background-color: black; }
-  .footer .secciones {
-    color: white; }
-    .footer .secciones__footer {
-      color: #FECF07; }
-
 .main__inicio {
   background-image: url(./imagen/imageninicio.jpg);
   height: 50rem;
@@ -78,6 +71,12 @@
     background-color: #FECF07;
     padding: 4px 10px;
     border-radius: 10px; }
+    .main__inicio .inicio__texto3 .inicio__boton:hover {
+      transform: scale(1.2); }
+    .main__inicio .inicio__texto3 .inicio__boton {
+      width: fit-content;
+      margin: 0 auto;
+      transition: transform 1s; }
 
 .footer {
   background-color: black; }

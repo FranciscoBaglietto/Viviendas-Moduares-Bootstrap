@@ -53,7 +53,7 @@
     /*Inicio*/
 .main__inicio{
     background-image: url(./imagen/imageninicio.jpg);
-    height: 50rem;
+    height: 51rem;
     object-fit:cover;
     object-position: center;
     background-repeat: no-repeat;
@@ -66,6 +66,8 @@
     transform: scale(1.2);
 }
 .inicio__boton{
+    width: fit-content;
+    margin: 0 auto;
     transition: transform 1s;
 }
 .sticker{
